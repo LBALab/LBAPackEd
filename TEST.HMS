@@ -1,0 +1,29 @@
+[General]
+Description=This is script file created by LBA HQR Manager. If you don't know what it contains, better don't try to edit it manually
+In=E:\Delphi Progs\LBAHqr\Ress.hqr
+Out=E:\Delphi Progs\LBAHqr\test.hqr
+Count=6
+
+[0]
+Index=31
+Path=e:\DivFix.exe
+
+[1]
+Index=32
+Path=e:\DivFix.exe
+
+[2]
+Index=35
+Path=e:\DivFix.exe
+
+[3]
+Index=36
+Path=e:\DivFix.exe
+
+[4]
+Index=37
+Path=e:\DivFix.exe
+
+[5]
+Index=10
+Path=e:\HEDIT.EXE

@@ -1,0 +1,22 @@
+[OPTIONS]
+Compatibility=1.0
+Compiled file=LBAPackEd.chm
+Contents file=LBAPackEd.hhc
+Default Font=Arial,8,0
+Default Window=Main
+Default topic=html/Overview.htm
+Display compile notes=No
+Display compile progress=No
+Full-text search=Yes
+Language=0x415 Polski
+Title=LBA Package Editor help
+
+[WINDOWS]
+Main=,"LBAPackEd.hhc",,"html/Overview.htm",,,,,,0x62520,,0x3006,,,,,,,,0
+
+
+[FILES]
+html\Popups.js
+
+[INFOTYPES]
+

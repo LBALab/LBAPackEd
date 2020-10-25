@@ -1,0 +1,224 @@
+This file contains the LBA2 3D isometric scene data, outside scene data and some information.
+Count of all entries and count of outside scenes.
+Citadel Island, Twinsen's house (room #2)
+Citadel Island, Twinsen's house Secret scene (room #3)
+Citadel Island, Tralu 1st scene (room #4)
+Citadel Island, Tavern (room #5)
+Citadel Island, Cellar of the Tavern (room #6)
+Citadel Island, Baggage claim building, 1st scene (room #7)
+Citadel Island, Baggage claim building, 2st scene (room #8)
+Citadel Island, Mr. Paul House (room #9)
+Citadel Island, Ticket office (room #10)
+Citadel Island, Neighbor's house (room #11)
+White Leaf Desert, Temple of Bú, 1st scene (room #12)
+White Leaf Desert, Temple of Bú, 2nd scene (room #13)
+White Leaf Desert, Esmer Base (room #14)
+Emerald Moon, Outside Baldino's cell(room #15)
+Citadel Island, Shop (room #16)
+Citadel Island, Miss Bloop's Private Museum (room #17)
+Citadel Island, Baggage claim building Secret scene, 3st scene (room #18)
+Citadel Island, Sewer (below Downtown) (room #19)
+Citadel Island, Sewer Secret scene (room #20)
+Citadel Island, Tralu 2nd scene (room #21)
+Citadel Island, Tralu 3rd scene (room #22)
+Citadel Island, Tent of the Weather Wizard (room #23)
+Citadel Island, Downtown Pharmacy (room #24)
+Emerald Moon, next to outside Baldino's cell (room #25)
+White Leaf Desert, Hacienda, 1st scene (room #26)
+White Leaf Desert, Turkish bath (women) (room #27)
+Citadel Island, Dome of the Slate (room #28)
+White Leaf Desert, School of Magic, 2nd scene (room #29)
+White Leaf Desert, School of Magic, 1st scene (room #30)
+White Leaf Desert, Hacienda, 2st scene (room #31)
+White Leaf Desert, Turkish bath (men) (room #32)
+Emerald Moon, entrance diamond shape building (room #33)
+White Leaf Desert, Secret passage in Turkish bath (mans) (room #34)
+White Leaf Desert, School of Magic training room (room #35)
+Citadel Island, Sendell's ball room (room #36)
+White Leaf Desert, House of Ker'aooc the Healer (room #37)
+White Leaf Desert, Bazaar (room #38)
+Citadel Island, School (room #39)
+White Leaf Desert, J. Baldino's House (room #40)
+White Leaf Desert, Bar (room #41)
+White Leaf Desert, Ticket office (room #42)
+White Leaf Desert, Esmer Shuttle (room #43)
+Citadel Island, near Tavern
+Citadel Island, near the Harbor
+Citadel Island, outside the Dome of the Slate
+Citadel Island, near the tent of the Weather Wizard
+Citadel Island, near Lighthouse
+Citadel Island, at the Sendell's sign
+Citadel Island, downstairs the sewer grid
+Citadel Island, near Dino-Fly
+Citadel Island, at the Cliffs of the Woodbridge
+Citadel Island, Spider Cave (room #44)
+Emerald Moon, entrance circle symbol building (room #45)
+Emerald Moon, entrance X symbol building (room #46)
+Emerald Moon, Baldino's cell (room #47) 
+White Leaf Desert, near Dino-fly
+White Leaf Desert, near the Camel
+White Leaf Desert, at the Von Kournil tour
+White Leaf Desert, near Von Kournil tour
+White Leaf Desert, near Lighthouse
+White Leaf Desert, near J. Baldino's House
+White Leaf Desert, at the School of Magic
+White Leaf Desert, near car jump
+White Leaf Desert, near Temple of Bù
+White Leaf Desert, at the Bell
+White Leaf Desert, near Esmer Shuttle
+White Leaf Desert, near Bald Mountain
+White Leaf Desert, at the Temple of Bù
+White Leaf Desert, near Temple of Bù
+White Leaf Desert, near to the Perl of Incandescence entrance
+White Leaf Desert, near Esmer Shuttle
+White Leaf Desert, near Bald Mountain
+White Leaf Desert, near Bald Mountain
+White Leaf Desert, at the island across from the Hacienda
+Emerald Moon, somewhere in Emerald Moon
+Emerald Moon, near circle entrance
+Emerald Moon, somewhere in Emerald Moon
+Emerald Moon, near square entrance
+Otringal, Emperor's palace departure room (room #48)
+Otringal, Emperor's palace 1st room (room #49)
+Otringal, Emperor's palace last room (room #50)
+Otringal, the Imperial Hotel (room #51)
+Otringal, the elevators to the Lower City (room #52)
+Otringal, Prison entrance (room #53)
+Otringal Prison (room #54)
+Otringal, control tower entrance (room #55)
+Otringal, the space port (room #56)
+Otringal, near Harbor
+Otringal, the Upper City scene
+Otringal, the Lower City scene
+Otringal, the Prison Exit scene
+Otringal, the scene outside the Emperor's palace
+Otringal, the space port scene
+Celebration Island, inside the temple (room #57)
+Empty water outside scene
+Celebration Island, the only outside scene
+Wannies Island, the city outside scene
+Wannies Island, the ferryman landing place scene
+Wannies Island, the scene near the Elevator
+Wannies Island, the scene near the entrance of the mine
+Wannies Island, the mine, 2nd room (room #58)
+Wannies Island, the house of the firefly tart-giving family (room #59)
+Mosquibees Island, the scene on the bridge
+Mosquibees Island, the scene on top of the mountain
+Mosquibees Island, the Mosquibee Queen's throne (room #60)
+Mosquibees Island, the arrival scene
+Mosquibees Island, the maze (room #61)
+Francos Island, the platform scene
+Francos Island, the scene outside the factory
+Francos Island, the village scene
+Francos Island, the arrival scene
+Wannies Island, the mine, 3rd room (room #62)
+Wannies Island, near the temple on the main (room #63)
+White Leaf Desert, Pearl of Incandescence room (room #64)
+White Leaf Desert, Esmer shuttle (room #65)
+Emerald Moon, Esmer shuttle (room #66)
+Wannies Island, the monk house (room #67)
+Wannies Island, mine temple (room #68)
+Wannies Island, the city (room #69)
+Wannies Island, the way to the city temple (room #70)
+The Elevator Platform Island, the only scene
+Wannies Island, the city temple (room #71)
+Wannies Island, the mine, 1st room (room #72)
+Wannies Island, inside the elevator (room #73)
+Wannies Island, the box transport building (room #74)
+Wannies Island, Building Company (room #75)
+Wannies Island, Warehouse (room #76)
+White Leaf Desert, Temple of Bù Secret passage (room #77)
+Mosquibees Island, Bee test room (room #78)
+Island Under Celebration, the hide out (room #79)
+Island Under Celebration, the hide out scene
+Island Under Celebration, the upper scene
+Island Under Celebration, the arrival scene
+Otringal, Casino jackpot room (room #80)
+Otringal, Bar backstage (room #81)
+Otringal, Casino entrance (room #82)
+Otringal, Bar entrance (room #83)
+Otringal, Bar - Rick's room (room #84)
+Otringal, the Twinsen and Baldino crash site
+Otringal, the lowest elevators (room #85)
+Francos gazogem factory, 1st room (room #86)
+Francos gazogem factory, 2nd room (room #87)
+Francos gazogem factory, 3rd room (room #88)
+Francos gazogem factory, 4th room (room #89)
+Francos Island, the guard post near the platform entrance
+Francos gazogem factory, 1st secret room (room #91)
+Francos gazogem factory, 2nd secret room (room #92)
+Otringal, the Twinsunian souvenir shop (room #93)
+Otringal, the Dissidents' hide out (room #94)
+Mosquibees Island, the passage to the fragment (room #95)
+Otringal, the elevator to the Upper City (room #96)
+Otringal, One of the rooms in the Emperor's palace (room #97)
+Otringal, One of the rooms in the Emperor's palace (room #98)
+Otringal, One of the rooms in the Emperor's palace (room #99)
+Otringal, One of the rooms in the Emperor's palace (room #100)
+Otringal, One of the rooms in the Emperor's palace (room #101)
+Otringal, One of the rooms in the Emperor's palace (room #102)
+Otringal, One of the rooms in the Emperor's palace (room #103)
+Otringal, One of the rooms in the Emperor's palace (room #104)
+Otringal, One of the rooms in the Emperor's palace (room #105)
+Otringal, One of the rooms in the Emperor's palace (room #106)
+Otringal, One of the rooms in the Emperor's palace (room #107)
+Otringal, One of the rooms in the Emperor's palace (room #108)
+Otringal, One of the rooms in the Emperor's palace (room #109)
+Otringal, One of the rooms in the Emperor's palace (room #110)
+Otringal, One of the rooms in the Emperor's palace (room #111)
+Otringal, One of the rooms in the Emperor's palace (room #112)
+Emerald Moon, entrance triangle symbol room (room #113)
+Emerald Moon, entrance square symbol room (room #114)
+Otringal, Bathroom in the Imperial Hotel (room #115)
+Otringal, Imperial Hotel, 2nd room (room #116)
+Francos Island, Shop (room #117)
+Francos Island, Tavern (room #118)
+Francos Island, Scientist's house (room #119)
+Francos Island, Nursery (room #120)
+Francos Island, Burgermaster's house (room #121)
+Mosquibees Island, the passage to Island CX (room #122)
+Island CX, Stairs in the control tower (room #123)
+Island CX, Control tower (room #124)
+Island CX, the only outside scene
+Island CX, Secret passage (room #126)
+Island CX, Room in the emperor (room #127)
+Island CX, Esmer Shuttle (room #128)
+The protection spell cave, 1st scene (room #129)
+The protection spell cave, 2nd scene (room #130)
+The Dark Monk statue, the wizards, 1st scene (room #131)
+The Dark Monk statue, the top, 2nd scene (room #132)
+The Dark Monk statue, 3rd scene (room #133)
+The Dark Monk statue, 4th scene (last) (room #134)
+Otringal, Esmer shuttle (room #137)
+Empty lava outside scene
+White Leaf Desert, Esmer shuttle (room #137)
+The Dark Monk statue Secret scene (room #138)
+Demo Scene - Citadel Island, Twinsen's House (room #139)
+Demo Scene - Citadel Island, Twinsen's house Secret room (room #140)
+Demo Scene - Citadel Island, near Dino-Fly
+Demo Scene - Citadel Island, Twinsen & Zoé walking to Lighthouse.
+Demo Scene - Citadel Island, Harbor
+Demo Scene - White Leaf Desert, near Lighhouse
+Demo Scene - White Leaf Desert, Harbor
+Demo Scene - White Leaf Desert, city center 1 
+Demo Scene - White Leaf Desert, city center 2 
+Demo Scene - White Leaf Desert, School of Magic
+Demo Scene - Citadel Island, Dome of the Slate (room #141)
+Demo Scene - White Leaf Desert, arrived with Dino-Fly
+Demo Scene - Franco Island, harbor 
+Demo Scene - Desert Island, near temple park 
+Demo Scene - Emerald Moon
+Demo Scene - White Leaf Desert, Temple of Bù (room #142)
+Demo Scene - Otringal, harbor
+Demo Scene - Otringal, Casino (room #143)
+Demo Scene - Otringal, religion preaching 
+Demo Scene - Franco Island, arrival 
+Demo Scene - Wannies Island, elevators
+Demo Scene - Wannies Island, the mine (room #144)
+Demo Scene - Mosquibees Island, the Mosquibee Queen's throne (room #145)
+Demo Scene - Mosquibees Island, the bridge 
+Demo Scene - Otringal, Emperor's palace room (room #146)
+Demo Scene - The Dark Monk statue (last) (room #147)
+Demo Scene - Island Under Celebration
+Demo Scene - White Leaf Desert, Esmer Base (room #148)
+Demo Scene - Otringal (room #149)

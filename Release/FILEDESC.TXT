@@ -1,0 +1,166 @@
+-----------------------------------------
+LBA Package Editor - Package Descriptions
+Version 0.11
+-------------
+Updated by alexfont [alexandrefontoura@oninetspeed.pt]
+------------------------------------------------------
+
+####################################
+ Descriptions Updates
+####################################
+
+### 05-09-2004:
+
+ - Finished LBA LBA_Bll.hqr descriptions
+ - Finished LBA LBA_GRI.hqr descriptions
+ - Added LBA2 LBA_Brk.hqr descriptions
+ - Fixed LBA2 LBA_Brk.hqr descriptions
+ - Fixed LBA2 Scene.hqr descriptions
+ - Fixed LBA2 Ress.hqr descriptions
+ - Fixed LBA Sprites.hqr descriptions
+
+
+### 23-08-2004:
+
+ - Fixed LBA Sprite.hqr descriptions
+ - Added LBA LBA_Bll.hqr descriptions
+ - Added more LBA LBA_GRI.hqr descriptions
+ - Added file description for LBA LBA_Brk.hqr
+
+
+### 15-07-2004:
+
+ - Added LBA Sprite.hqr descriptions
+
+
+### 12-07-2004:
+
+ - Added LBA2 Spriraw.hqr descriptions
+
+
+### 23-06-2004:
+
+ - Added LBA2 Ress.hqr descriptions
+
+
+### 20-06-2004:
+
+ - Fixed LBA LBA_GRI.hqr descriptions
+
+ - Fixed LBA2 Ress.hqr descriptions
+
+
+### 10-06-2004:
+
+ - Fixed LBA2 Scene.hqr descriptions
+
+ - Added LBA2 Anim.hqr descriptions
+
+ - Added LBA2 Anim3ds.hqr descriptions
+
+ - Added LBA2 Samples.hqr descriptions
+
+ - Added LBA2 demo Scrshot.hqr descriptions
+
+
+### 30-05-2004:
+
+ - Finished LBA2 Scene.hqr descriptions
+
+ - Finished LBA2 LBA_BKG.hqr descriptions
+
+ - Fixed LBA2 Citadel.obj descriptions
+
+ - Added LBA2 Citabau.obj descriptions
+
+ - Added LBA2 Citadel.ile descriptions
+
+ - Added LBA2 Citabau.ile descriptions
+
+
+### 16-05-2004:
+
+ - Added LBA2.hqr descriptions
+
+ - Added Citadel.obj descriptions
+
+
+### 15-05-2004:
+
+ - Added some LBA2 Scene.hqr and LBA_BKG.hqr descriptions
+
+ - Added more LBA LBA_GRI.hqr descriptions
+
+
+### 02-05-2004:
+
+ - Fixed some LBA Scene.hqr and LBA_Gri.hqr descriptions
+
+ - Fixed some LBA2 Ress.hqr descriptions
+
+
+### 01-05-2004:
+
+ - Added LBA Ress.hqr last descrptions
+
+ - Added LBA2 Holomap.hqr last descrptions
+
+
+### 01-05-2004:
+
+ - Added LBA Lba_Gri.hqr
+
+ - Added LBA Lba_Bll.hqr
+
+ - Added LBA Scene.hqr
+
+ - Added LBA description for all French and German Voices
+
+ - Change Fla_gif.hqr file description
+
+ - Added LBA2 Ress.hqr
+
+ - Added LBA2 Scene.hqr
+
+
+### 29-04-2004:
+
+ - Added all files description (new feature)
+
+ - Added LBA2 Body.hqr
+
+
+### 28-04-2004:
+
+ - Added *.anm file extension Ress.hqr
+
+ - Added and Fix Ress.hqr
+
+ - Added all VOX descriptions (have a little bug yet)
+
+ - Added Fla_gif.hqr
+
+ - Fixed Anim.hqr
+
+ - Added Holomap.hqr
+
+ - Added Objfix.hqr
+
+ - Added Screen.hqr
+
+
+### 27-04-2004:
+
+ - Added Anim.hq
+
+ - Added Body.hqr
+ 
+ - Added File3d.hqr
+
+ - Added Invobj.hqr
+
+ - Added Ress.hqr
+
+ - Added Samples.hqr
+
+ - Added Text.hqr

@@ -1,0 +1,28 @@
+dodaæ dodawanie i usuwanie ukrytych plików
+konwersja normal<->repeated (w³aœciwie to konwersja wszystkich na wszystkie)
+
+Zapisywanie w normalny sposób
+klikanie na "selected:"
+zapisywanie szerokoœci kolumn
+opcja: pytanie o zast¹pienie pliku hqr przy build lub przy wybieraniu
+otwieranie plików wewnêtrznych za pomoc¹ programów skojarzonych w Windowsie
+
+zrobiæ mo¿liwoœæ wyœwietlania numerów plików od zera
+
+w "extract this entry" z³e domyœlne rozszerzenie dla *.grf
+
+Drag & Drop -> IDataObject
+
+------ póŸniejsze -------
+dodawanie plików do hqr
+filtrowanie plików (na przyk³ad po tekœcie opisu)
+jak siê otworzy plik dwa razy, to po zamkniêciu mówi, ¿e zosta³ zmieniony
+
+into your program:
+[*]Adding/removing items (even duplicates and blank ones);
+[*]Replacing all types of items with all types of items;
+[*]When I replace an item, which has duplicates, with a new item, the duplicates should be updated, too.;
+[*]Filter for item display (see ChaosFish's post);
+[*]Compression.
+
+

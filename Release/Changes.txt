@@ -1,0 +1,154 @@
+####################################
+ Changes history
+####################################
+
+ For entries information updates history see filedesc.txt
+----------------------------------------------------------
+
+###
+
+ - Changed: program now saves its settings to LBAPackEd.ini file insted of config.ini file. Please change the name of your config.ini file to "LBAPackEd.ini" to prevent loss of your custom settings.
+ - Fixed: entries of *.obl files now have correct *.lm2 extensions instead on *.lfn.
+ - New extension: *.grf (Grid Fragment) - for the files between grids and libraries in lba_bkg.hqr (LBA 2).
+ - Fixed: program now recognizes souscelb.ile and souscelb.obj files.
+ - Changed: file information files now have .hqd (HQR Description) extension instead of .dat
+ - Changed: when opening a package file the program now will look for a .hqd file with the same name as the package file in the directory where the package file is. If the .hqd file is found, the program will load information for the package file from that file, otherwise the program will look for appropriate .hqd file in the program directory (\fileinfo). This way you can make your own description files for your own modified package files and make them to be loaded with them only.
+ - Improved: path and info hint popups now cover the path/info texts, so that they are easier to read
+ - New: Info and Replace columns now have popup hints (appearing if text is longer than column width, or for paths - if full path is longer than column width). Path column hint displays full path instead of minimized path.
+ 
+### Changes in version 0.11+:
+
+ - Added support for High Quality Scenarios (*.hqs). Not complete though, but you can at least extract and replace entries.  
+
+### Changes in version 0.11:
+ 
+ - Changed: Extension *.lsc is now split into *.ls1 and *.ls2
+ - Changed: Extension *.bll is now split into *.bl1 and *.bl2
+ - Changed: Extension *.l3d is now split into *.lm1 and *.lm2
+ - Fixed: Error during extracting including info text in the file name, when info text contained illegal characters. Now all illegal characters will be replaced with "_".
+ - Fixed: When you opened one entry with a tool, all the other entries were seen as "opened" also.
+ - Changed: Extension *.pal is now universal extension. It means that you can open it together with any other file type, not only the one that is associated with the same tool. For example, if you have *.pal and *.lim associated with ImageViewer, and *.lm1 associated with 3DViewer, you can select a pal file together with a lm1 file, and open them with 3DViewer, as well as select pal+lim and open them with ImageViewer.
+
+### Changes in version 0.10+:
+
+ - Fixed: Menus are now working properly under Win98 (thanks OBrasilo)
+
+### Changes in version 0.10:
+ - Fixed: Removed file name length limit in partial extract dialog.
+ - Fixed: bug that caused "Specify output file" small button not to go enabled.
+ - Fixed: bug that caused internal replacements index to decrease on its own in some cases
+  - Improved: Program now uses my unit that gives XP-style to menus and toolbars instead of Delphi's ActionToolbar, thus you will be able to open source code in Delphi 7 Personal, and the program looks overally nicer.
+ - Improved: Shaded progress bar like in LBArchitect
+ - Improved: Column widths will be saved (if you enabled "Remember these settings" in "Columns" menu).
+
+
+### Changes in version 0.09:
+ - You can now open two or more entries with one tool at the same time (if the same tool is assigned to all of them), for example lim and pal.
+ - Fixed hints for "Display blank entries" and "Compact blank entries" menu items.
+ - New extension: pcx - contained by fla_pcx.hqr file in some diskette versions of LBA 1
+ - Fixed tool execution procedures for some extensions (they were badly linked)
+
+### Changes in version 0.08b:
+ - Extension "gri" changed to "gr1" and added extension "gr2".
+ - At last popup menus have XP style
+
+### Changes in version 0.08a:
+ - Fixed problem with more than one entry opened. You can now open many entries at the same time.
+ - A tool will now occur only once in tools menu if it is assigned to more than one extension with identical parameters.
+
+### Changes in version 0.08:
+ - You can now delete replacements for repeated entries
+ - "If no editor associated" setting is now saved
+ - Tools configuration dialog changed a bit
+ - Tool parameters are now working
+ - You can now manually clear the "opened" indicator that sometimes was not cleared automatically when an entry has been opened with an MDI application (e.g. Hex Workshop 4.0). Sometimes after closing an editor, Package Editor still reported that the file was opened.
+ - You can now include entry info texts in the extracted files names (idea by AlexFont), you can turn it on in settings
+ - Added option to skip repeated entries during partial extracting 
+ - Added three new extensions:
+    brk: brick files
+    bll: brick layout libraries
+    gri: grid files
+   They are used to design rooms/islands in LBA 1 and rooms in LBA 2.
+
+### Changes in version 0.07a:
+ - Partial extracting now works correctly
+
+### Changes in version 0.07:
+ - Temp files are now deleted by last program instance (they are not deleted if there is another instance running)
+ - Temp files now have .lun extension if they are not known
+ - An entry now can be opened with another tool if the previous tool didn't exist
+ - The same file for output now works also for files dropped from Explorer
+ - New options: "extract to temp" and "replace from temp" added in order to make opening related files (e.g. *.lim and *.pal) easier
+ - No more indexing options, they caused only mistakes and even sometimes program errors (and they would cause even more errors since the repeated entries support is introduced)
+ - Due to these reasons the program doesn't asks for display mode any more
+ - Display options are now reduced to blank entry displaying option
+ - New feature: "Compact blank entries" - displays each block of blank entries in only one row
+
+### Changes in version 0.06:
+ - Added Tools feature. You can now specify an editor/viewer/player for each extension and open entries that have such extension without extracting (under right-click menu)
+ - The program now asks for display mode when you run it for the first time (when config.ini file is not found)
+ - Added option to automatically set the same file for input and output
+
+### Changes in version 0.05c:
+ - Fixed a bug in settings window
+ - Added two recognized extensions:
+    *.lsh - shape file - it contains stars that fly out of Twinsen when he is getting hurt, kissing hearts, and other shapes;
+    *.lsc - scene file - containing arrangements of room and characters, their positions, and actions, and so on.
+ - Fixed some mess in icons (partial extract window)
+ - Fixed transparent colour in main bar icons
+
+### Changes in version 0.05b:
+ - Added new entries information
+ - Fixed bug when sometimes long filenames were displayed as short
+ - Paths longer than the width of "will be replaced with" column are now shorten
+ - Internal replace symbol '#' is changed to '>' in order to avoid confusing it with a filename character by the program
+ - Added another package filename that I didn't know before
+
+### Changes in version 0.05a:
+ - Added new entries information
+ - "Choose folder" window now have "Create folder" button...
+ - ...and have direct access to the desktop
+ - Fixed mistake in recognized package file names
+ - Added information when info file is not found 
+ - Labels hints now pop up only if not all text is visible
+
+### Changes in version 0.05:
+ - Added new entries information
+ - New feature: manual replacement editing (by pressing <Enter> or <F2>) - idea by AlexFont
+ - New feature: Reloading current package (idea by AlexFont)
+ - New feature: Recently opened files (idea by AlexFont)
+ - Replacements for all selected entries are now cleared when pressing <Del>
+ - XP style main menu (does anyone know how to do it also for popup menus?)
+
+### Changes in version 0.04a:
+ - Added new extensions
+ - Added new entries infomation
+
+### Changes in version 0.04:
+ - Added new information about entries
+ - Fixed bug that caused hidden entries to be incorrectly indexed under certain conditions
+ - Fixed bug that caused hidden entries to be displayed with incorrent information
+ - Fixed bug that caused entries to be extracted with wrong extensions
+ - Added new option to remember window position and size
+ - Added package file description feature (idea by AlexFont)
+
+### Changes in version 0.03:
+ - Added Info column 
+ - Added switching columns on and off 
+ - Added auto-resizing columns to fit the window size.
+ - Added some recognized extensions.
+ - Added first byte correction in flasamp.hqr (it was only in .vox files before).
+
+### Changes in version 0.02:
+ - Fixed bug in extraction procedure that raised an internal exception.
+ - Added some file extensions recognized by people from File Information Project (http://www.magicball.net/forum/showthread.php?t=7488)
+ - Added some hqr files that was known, but I forgot about them (thanks AlexFont!)
+
+### Changes in comparsion to HQR Manager:
+ - Changed almost whole interface
+ - No file manager, you just drag files from Explorer
+ - You can adjust displaying to be just like in LBADeComp
+ - Extracting entries
+ - Projects instead of scripts (scripts opening is supported)
+ - Drag & drop within one package file (see the settings)
+ - Replacing more than one entry in the same time (multiselect with the <Ctrl> or <Shift> key)

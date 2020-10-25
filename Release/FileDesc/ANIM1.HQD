@@ -1,0 +1,517 @@
+This file contains the animations for the LBA1 3D models in BODY.HQR
+Twinsen standing (normal mode)
+Twinsen walking (normal mode)
+Twinsen walking backwards (normal mode)
+Twinsen turning right (normal mode)
+Twinsen turning left (normal mode)
+Twinsen jumping
+Twinsen standing (aggressive mode)
+Twinsen fighting
+Twinsen running
+Twinsen falling
+Twinsen throwing magic ball
+Twinsen getting hit 1
+Twinsen getting hit 2
+Twinsen getting hit 3
+Twinsen landing (short fall)
+Twinsen landing (long fall)
+Twinsen wowing
+Twinsen getting down
+Twinsen leaning from half standing, and crawling
+Twinsen dying, game over
+Twinsen operating something 1
+Twinsen climbing up ladder
+Twinsen operating something 2
+Twinsen jumping in place
+Twinsen leaning from standing, and crawling
+Twinsen finish climbing up ladder
+Twinsen starting climbing up ladder
+Twinsen operating something 3
+Twinsen blows horn
+Twinsen drowning
+Twinsen waving
+Twinsen dead
+Twinsen turning right (athletic mode)
+Twinsen jumping backwards
+Twinsen drawing sword
+Twinsen fights with sword (normal mode)
+Twinsen crawling
+Twinsen spilling flask
+Twinsen standing (athletic mode)
+Twinsen walking backwards (normal mode)
+Twinsen turning left (athletic mode)
+Twinsen dying
+Twinsen dead
+Twinsen fights with sword (athletic mode)
+Twinsen standing (aggressive mode)
+Twinsen walking (aggressive mode)
+Twinsen walking backwards (aggressive mode)
+Twinsen turning left (aggressive mode)
+Twinsen turning right (aggressive mode)
+Twinsen kicking
+Twinsen butting
+Twinsen punching
+Twinsen fights with sword (agressive mode)
+Twinsen standing (discreet mode)
+Twinsen walking (discreet mode)
+Twinsen walking backwards (discreet mode)
+Twinsen turning left (discreet mode)
+Twinsen turning right (discreet mode)
+Twinsen hiding
+Twinsen fights with sword (discreet mode)
+Twinsen standing (with Proto-Pack)
+Twinsen hovers forwards (with Proto-Pack)
+Twinsen turning left (with Proto-Pack)
+Twinsen turning right (with Proto-Pack)
+Twinsen moving left (with Proto-Pack)
+Twinsen moving right (with Proto-Pack)
+Twinsen getting hit (with Proto-Pack)
+Twinsen falling (with Proto-Pack)
+Twinsen landing (short fall) (with Proto-Pack)
+Twinsen landing (long fall) (with Proto-Pack)
+Twinsen drowning (with Proto-Pack)
+Nurse writing
+Nurse (weak) getting hit
+Nurse (strong) getting hit
+Nurse walking
+Nurse rebuking, then walking
+Nurse pulling out gun
+Nurse shooting
+Nurse with club standing
+Nurse with club running to alarm button
+Nurse with club in "move along" movement
+Nurse with club alert
+Nurse with club pulling out club
+Nurse with club getting hit 1
+Nurse with club getting hit 2
+Nurse with club getting hit 3
+Nurse with club fights with club
+Nurse with club walking
+Nurse with club pressing alarm button
+Nurse with club falling 1
+Nurse with club falling 2
+Nurse with club stamping
+Supergro walking
+Supergro standing
+Supergro shooting
+Supergro frozen
+Supergro getting hit and moving backwards
+Supergro roaring
+Supergro falling
+Supergro getting hit and moving forwards
+Nurse clothing (frozen)
+Meca Penguin frozen
+Meca Penguin moving and ticking
+Garbage truck starting
+Garbage truck driving forwars
+Garbage truck driving backwards
+Garbage truck unloading
+Garbage truck stopping
+Grobo standing
+Grobo walking
+Grobo reading
+Grobo getting hit (frozen)
+Grobo getting hit (animated)
+Grobo fighting
+Grobo sitting down
+Grobo standing up
+Grobo sitting
+Grobo swinging
+Sitting grobo getting hit
+Grobo falling
+Soldier standing
+Soldier walking
+Soldier shooting
+Soldier alert 1
+Soldier alert 2
+Soldier saluting
+Soldier returns gun
+Soldier getting hit
+Soldier running
+Soldier hitting with gun
+Soldier sleeping
+Soldier waking up
+Scared soldier running
+Rabbibunny standing
+Rabbibunny walking
+Rabbibunny running 1
+Rabbibunny saluting
+Rabbibunny digging
+Rabbibunny hopping
+Rabbibunny waiting
+Rabbibunny getting hit
+Rabbibunny running 2
+Rabbibunny waiter pouring
+Rabbibunny drinking
+Rabbibunny painter standing
+Rabbibunny falling
+Rabbibunny falling (frozen)
+Rabbibunny getting hit (frozen)
+Rabbibunny sitting
+Rabbibunny fighting
+Rabbibunny climbing up ladder
+Rabbibunny painting
+Rabbibunny waving 1
+Rabbibunny waving 2
+Rabbibunny clapping
+Surveillance device scanning the area
+Surveillance device moving
+Surveillance device shooting
+Surveillance device getting hit 1
+Surveillance device getting hit 2
+Business quetch standing
+Business quetch walking
+Business quetch getting hit
+Business quetch waving
+Groboclone standing 1
+Groboclone standing 2
+Groboclone walking
+Groboclone pulling out club and fights with club
+Groboclone fights with club
+Groboclone running
+Groboclone in "move along" movement
+Groboclone frozen
+Groboclone getting hit, moving right
+Groboclone getting hit, moving left
+Groboclone shooting
+Groboclone turning left
+Groboclone lying (frozen)
+Groboclone falling
+(corrupted entry)
+Green rabbibunny clone scanning the area
+Green rabbibunny clone walking
+Green rabbibunny clone getting hit 1
+Green rabbibunny clone getting hit 2
+Green rabbibunny clone shooting
+Green rabbibunny clone getting hit 3
+Turret frozen 1
+Turret frozen 2
+Turret frozen 3
+Turret frozen 4
+Turret shooting
+Robot standing
+Robot walking 1
+Robot walking backwards
+Robot jumping
+Robot fighting
+Robot walking 2
+Robot jumping in place 1
+Robot jumping in place 2
+Robot going up and down
+Tank driving
+Tank stopping
+Tank starting
+Tank getting hit
+Tank driving backwards
+Tank frozen
+Tank shootig
+Female rabbibunny walking
+Female rabbibunny standing
+Female rabbibunny walking, looking both sides
+Female rabbibunny getting hit
+Female rabbibunny flirting
+Female rabbibunny talking
+Female rabbibunny angry
+Female rabbibunny painting
+Zoé standing
+Zoé walking
+Zoé getting hit 1
+Zoé getting hit 2
+Zoé approaching to Twinsen
+Zoé kissing
+Zoé waving
+Zoé operating something
+Zoé kicking 1
+Zoé butting
+Zoé jumping backwards
+Zoé kicking 2
+Zoé falling
+Zoé landing
+Zoé jumping in place
+Zoé turning left, walking
+Catamaran swinging in place
+Catamaran swimming forwards
+Catamaran swimming backwards
+Catamaran swimming right
+Catamaran swimming left
+Ferryboat frozen
+Ferryboat swimming forwards
+Ferryboat swimming backwards
+Grobo sailor walking
+Grobo sailor getting hit
+Grobo sailor standing
+Rabbibunny sailor saluting
+Boat swimming forwards
+Boat swinging in place
+Skeleton sleeping (frozen)
+Skeleton waking up
+Skeleton standing
+Skeleton walking agnry
+Skeleton fighting with knife
+Skeleton kicking
+Skeleton getting hit 1
+Skeleton getting hit 2
+Skeleton getting hit 3
+Skeleton getting hit 4
+Skeleton walking
+Skeleton falling
+Skeleton bowing
+Spikes frozen
+Spikes moving forwards
+Spikes moving backwards
+Spikes cylinder frozen
+Spikes cylinder rolling in place
+Spikes cylinder rolling forwards
+Electro-plant frozen
+Electro-plant expanding
+Rebels boat swinging in place
+Rebels boat swimming forwards
+Rebels boat opening
+Rebels boat swimming backwards
+Soldier with machine gun observing
+Soldier with machine gun getting hit 1
+Soldier with machine gun getting hit 2
+Soldier with machine gun shooting
+Radar working
+Rabbinuby rebel standing
+Rabbinuby rebel crouched
+Rabbinuby rebe lwalking
+Rabbinuby rebel standing and shooting
+Rabbinuby rebel crouched shooting
+Rabbinuby rebel jumping
+Rabbinuby rebel moving on
+Rabbinuby rebel getting hit
+Rabbinuby rebel throwing grenade
+Sphero rebel standing
+Sphero rebel walking
+Sphero rebel getting hit 1
+Sphero rebel getting hit 2
+Sphero rebel throwing grenade
+Sphero rebel shooting
+Sphero standing
+Sphero walking
+Sphero hopping
+Sphero jumping backwards
+Sphero jumping in place
+Sphero getting hit 1
+Sphero getting hit 2
+Sphero waving
+Rabbibunny clone with coputer walking
+Rabbibunny clone with coputer scanning the area
+Rabbibunny clone with coputer getting hit 1
+Rabbibunny clone with coputer getting hit 2
+Rabbibunny clone with coputer getting hit (frozen)
+Rabbibunny clone with coputer shooting
+Car starting
+Car driving
+Car driving backwards
+Car stopping
+Carm frozen
+Praying mantis standing
+Praying mantis walking
+Praying mantis getting hit 1
+Praying mantis getting hit 2
+Praying mantis getting hit 3
+Praying mantis fighting 1
+Praying mantis fighting 2
+Sphero clone standing
+Sphero clone walking
+Sphero clone getting hit 1
+Sphero clone getting hit 2
+Sphero clone getting hit 3
+Sphero clone shooting
+ID (frozen)
+Object spinning
+Rabbiubnny fisher fishing 1
+Rabbibunny fisher fishing 2
+Rabbibunny fisher fishing 3
+Rabbibunny fisher standing up
+Rabbibunny fisher walking
+Motorcycle starting
+Motorcycle driving
+Motorcycle driving backwards
+Horse standing
+Horse walking
+Horse braying
+Horse standing wildly
+Horse moving right
+Horse moving left
+Horse running
+Horse running and jumping
+Horse walking fast
+Horse jumping
+Horse running wildly
+Horse jumping in place
+Rabbibunny sitting
+Rabbibunny sitting playing guitar 1
+Rabbibunny talking
+Rabbibunny sitting playing guitar 2
+Rabbibunny playing guitar wildly 1
+Rabbibunny standing up
+Rabbibunny sitting playing guitar 3
+Rabbibunny playing flute
+Elf standing
+Elf walking
+Elf getting hit
+Bird standing
+Bird flying down and forwards
+Bird flying up and forwards
+Eye creature hopping in place
+Eyte creature hopping forwards
+Eye creature hopping left and right
+Eye creature hopping in circles
+Eye creature hopping backwards
+Eye creature hop-rolling forwards
+Rock frozen
+Rock rolling forwards 1
+Rock rolling forwards 2
+Rock rolling in place
+Rock getting thrown
+Book of Bù spinning
+Red rabbibunny clone spinning head
+Red rabbibunny clone walking 1
+Red rabbibunny clone getting hit and moving right
+Red rabbibunny clone getting hit and moving left
+Red rabbibunny clone with power off (frozen)
+Red rabbibunny clone walking 2
+Red rabbibunny clone shooting Meca Penguin
+Red rabbibunny clone getting hit and moving backwards
+Red rabbibunny clone shooting
+Pirate flag (frozen)
+Snake lying
+Snake getting out head and stinging
+Snake stinging
+Snake getting hit 1
+Snake getting hit 2
+Snake crawling forwards 1
+Snake crawling forwards 2
+Snake getting hit 3
+Snake getting hit 4
+Proto-Pack (frozen)
+Proto-Pack driving forwards
+Big machine gun (frozen)
+Big machine gun shooting
+Giant crab standing
+Giant crab turning left and walking right
+Giant crab fighting
+Giant crab getting hit and moving backwards
+Giant crab getting hit and moving forwards
+Giant crab frozen
+Hydroglider swinging in place
+Hydroglider driving
+Groovy rabbibunny standing
+Groovy rabbibunny stamping
+Groovy rabbibunny walking
+Groovy grobo standing
+Groovy grobo walking
+Groovy grobo getting hit and moving backwards
+Groovy grobo running
+Goo creature standing 1
+Goo creature moving forwards
+Goo creature standing 2
+Goo creature standing bubbling 1
+Goo creature standing bubbling 2
+Goo creature fighting
+Goo creature moving forwards fast
+Dino-Fly standing
+Dino-Fly starting to fly
+Dino-Fly jumping backwards
+Dino-Fly flying
+Rabbibunny playing guitar wildly 2
+Guitarist rabbibunny walking
+Sphero with drums (frozen)
+Sphero with drums playing
+Twinsen clone lying
+Twinsen clone standing
+Twinsen clone waking up
+Huge orange creature standing
+Huge orange creature sniffing
+Huge orange creature jumping in place
+Huge orange creature bumping forwards
+Huge orange creature falling
+Huge orange creature rolling forwards
+Huge orange creature hopping forwards
+Huge orange creature getting hit and moving backwards
+Huge orange creature frozen
+FunFrock standing
+FunFrock walking
+FunFrock running
+FunFrock fighting with sword
+FunFrock jumping 1
+FunFrock wakling right
+FunFrock wakling left
+FunFrock getting hit 1
+FunFrock getting hit 2
+FunFrock landing
+FunFrock jumping 2
+FunFrock falling
+FunFrock going up and down
+FunFrock talking
+FunFrock throwing ball
+Flying grobo flying in place
+Flying grobo flying forwards
+Flying grobo flying forwards, shooting
+Flying grobo getting hit, moving backwards
+Flying grobo getting hit, moving forwards
+Fake shark frozen
+Fake shark moving forwards
+Fake shark moving forwards going up and down
+Snowboard (frozen)
+Flag waving
+Twinsen with snowboard standing
+Twinsen with snowboard skiing 1
+Twinsen with snowboard skiing 2
+Twinsen with snowboard skiing 3
+Twinsen with snowboard skiing 4
+Twinsen with snowboard skiing 5
+Twinsen with snowboard skiing 6
+Twinsen with snowboard skiing 7
+Twinsen with snowboard skiing 8
+Computer working
+Computer getting hit
+Construction truck driving forwards
+Construction truck starting 1
+Construction truck driving backwards
+Construction truck starting 2
+Constuction worker 1 standing
+Constuction worker 1 walking
+Constuction worker 1 digging
+Constuction worker 1 alert
+Constuction worker 1 fighting 1
+Constuction worker 1 fighting 2
+Constuction worker 1 moving left
+Constuction worker 1 moving right
+Constuction worker 1 getting hit 1
+Constuction worker 1 getting hit 2
+Constuction worker 1 walking angrily
+Constuction worker 2 standing 1
+Constuction worker 2 fighting 1
+Constuction worker 2 walking
+Constuction worker 2 standing 2
+Constuction worker 2 fighting 2
+Constuction worker 2 getting hit 1
+Constuction worker 2 getting hit 2
+Constuction worker 2 moving right
+Constuction worker 2 moving left
+Constuction worker 2 walking angrily
+Constuction worker 2 falling
+Constuction worker 2 landing
+Constuction worker 2 alert
+Constuction worker 3 standing
+Constuction worker 3 digging
+Constuction worker 3 pulling up gun and shooting
+Constuction worker 3 shooting
+Constuction worker 3 getting hit
+Constuction worker 3 alert
+Constuction worker 3 falling
+Constuction worker 3 landing
+Tractor starting
+Tracrot driving forwards
+Tracrot fighting 1
+Tracrot fighting 2
+Tracrot working
+Tracrot driving backwards
+Tracrot frozen
+Tracrot jumping in place
+Groovy sphero standing
+Groovy sphero walking
